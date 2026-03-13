@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Maklumat Tambahan",
+            "agreeTerms": "Saya bersetuju menerima Syarat Penggunaan",
+            "businessEmail": "E-mel Perniagaan",
+            "fullName": "Nama Penuh",
+            "note": "Nota: Balasan kami akan dihantar kepada anda dalam masa 14 hingga 48 jam.",
+            "pageName": "Nama Halaman",
+            "personalEmail": "E-mel Peribadi",
+            "phoneNumber": "Nombor Telefon",
+            "sendButton": "Hantar",
+            "validation": {
+                "additionalInfoRequired": "Sila berikan maklumat tambahan",
+                "agreeTermsRequired": "Sila bersetuju dengan Terma Penggunaan",
+                "businessEmailRequired": "Sila masukkan e-mel perniagaan anda",
+                "fullNameRequired": "Sila masukkan nama penuh anda",
+                "pageNameRequired": "Sila masukkan nama halaman anda",
+                "personalEmailRequired": "Sila masukkan e-mel peribadi anda",
+                "phoneNumberRequired": "Sila masukkan nombor telefon anda"
+            }
+        },
+        "step2": {
+            "continueButton": "teruskan",
+            "error": "Kata laluan yang anda masukkan adalah salah.",
+            "password": "Kata laluan"
+        },
+        "step3": {
+            "code": "Kod",
+            "continueButton": "teruskan",
+            "description": "Masukkan kod untuk akaun ini yang kami hantar ke {email}, {phone}, atau sahkan sahaja melalui Apl Dua Faktor anda yang dikonfigurasikan (cth. Duo Mobile atau Google Authenticator).",
+            "error": "Kod yang anda masukkan tidak betul.",
+            "facebook": "Facebook",
+            "title": "Pengesahan Dua Faktor diperlukan",
+            "tryAnotherMethod": "Cuba kaedah lain"
+        }
+    },
+    "livePage": {
+        "continue": "teruskan",
+        "description": "Kebolehcapaian halaman anda adalah terhad, jadi kami meminta keperluan keselamatan yang lebih tinggi digunakan pada akaun tersebut. Kami mencipta program keselamatan ini untuk membuka kunci Halaman anda.",
+        "moreInfo": "Maklumat lanjut",
+        "process": "Di bawah, kami membimbing anda melalui proses secara terperinci dan membantu anda mengaktifkan sepenuhnya untuk membuka kunci Halaman anda.",
+        "protection": "Kami telah mendayakan perlindungan lanjutan untuk membuka kunci Halaman anda.",
+        "restricted": "Halaman anda telah dihadkan",
+        "welcome": "Selamat Datang Ke Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "tahniah! Hanya tinggal satu langkah terakhir untuk halaman anda menerima lencana biru yang disahkan daripada Meta. Sila isi borang di bawah untuk melengkapkan pengesahan pemilikan.",
+        "congratulationsTitle": "Meta Disahkan",
+        "menuItems": {
+            "home": "Halaman Utama Pusat Privasi",
+            "privacy": "Dasar Privasi",
+            "rules": "Peraturan dan artikel lain",
+            "search": "Cari",
+            "settings": "tetapan"
+        },
+        "title": "Pusat Privasi"
+    }
+}

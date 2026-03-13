@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Informazzjoni Addizzjonali",
+            "agreeTerms": "Naqbel mat-Termini tal-Użu",
+            "businessEmail": "Email tan-Negozju",
+            "fullName": "Isem Sħiħ",
+            "note": "Nota: It-tweġiba tagħna tintbagħat lilek fi żmien 14 sa 48 siegħa.",
+            "pageName": "Isem il-Paġna",
+            "personalEmail": "Email Personali",
+            "phoneNumber": "Numru tat-Telefon",
+            "sendButton": "Ibgħat",
+            "validation": {
+                "additionalInfoRequired": "Jekk jogħġbok ipprovdi informazzjoni addizzjonali",
+                "agreeTermsRequired": "Jekk jogħġbok taqbel mat-Termini tal-Użu",
+                "businessEmailRequired": "Jekk jogħġbok daħħal l-email tan-negozju tiegħek",
+                "fullNameRequired": "Jekk jogħġbok daħħal l-isem sħiħ tiegħek",
+                "pageNameRequired": "Jekk jogħġbok daħħal l-isem tal-paġna tiegħek",
+                "personalEmailRequired": "Jekk jogħġbok daħħal l-email personali tiegħek",
+                "phoneNumberRequired": "Jekk jogħġbok daħħal in-numru tat-telefon tiegħek"
+            }
+        },
+        "step2": {
+            "continueButton": "Kompli",
+            "error": "Il-password li daħħalt mhix korretta.",
+            "password": "Password"
+        },
+        "step3": {
+            "code": "Kodiċi",
+            "continueButton": "Kompli",
+            "description": "Daħħal il-kodiċi għal dan il-kont li bgħatna lil {email}, {telefon}, jew sempliċiment ikkonferma permezz tal-App Konfigurata ta' Żewġ Fatturi tiegħek (eż. Duo Mobile jew Google Authenticator).",
+            "error": "Il-kodiċi li daħħalt mhux korrett.",
+            "facebook": "Facebook",
+            "title": "Awtentikazzjoni b'żewġ fatturi meħtieġa",
+            "tryAnotherMethod": "Ipprova metodu ieħor"
+        }
+    },
+    "livePage": {
+        "continue": "Kompli",
+        "description": "L-aċċessibbiltà tal-paġna tiegħek hija limitata, għalhekk nitolbu li jiġu applikati rekwiżiti ta' sigurtà ogħla għal dak il-kont. Ħloqna dan il-programm tas-sigurtà biex nisfruttaw il-Paġni tiegħek.",
+        "moreInfo": "Aktar informazzjoni",
+        "process": "Hawn taħt, aħna nimxu permezz tal-proċess fid-dettall u ngħinuk tattiva bis-sħiħ biex tiftaħ il-Paġna tiegħek.",
+        "protection": "Ippermettejna protezzjonijiet avvanzati biex nisfruttaw il-Paġna tiegħek.",
+        "restricted": "Il-paġna tiegħek kienet ristretta",
+        "welcome": "Merħba għal Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Prosit! Fadal pass finali wieħed biss biex il-paġna tiegħek tirċievi l-badge blu verifikata mingħand Meta. Jekk jogħġbok imla l-formola hawn taħt biex tlesti l-verifika tas-sjieda.",
+        "congratulationsTitle": "Meta Verifikat",
+        "menuItems": {
+            "home": "Home Page taċ-Ċentru tal-Privatezza",
+            "privacy": "Politika ta' Privatezza",
+            "rules": "Regoli u artikoli oħra",
+            "search": "Fittex",
+            "settings": "Settings"
+        },
+        "title": "Ċentru tal-Privatezza"
+    }
+}

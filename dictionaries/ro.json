@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "Sunt de acord cu Termenii de utilizare",
+            "businessEmail": "Business Email",
+            "fullName": "Numele complet",
+            "note": "Notă: răspunsul nostru vă va fi trimis în decurs de 14 până la 48 de ore.",
+            "pageName": "Numele paginii",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "Număr de telefon",
+            "sendButton": "Trimite",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "Vă rugăm să fiți de acord cu Termenii de utilizare",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "Vă rugăm să introduceți numele dvs. complet",
+                "pageNameRequired": "Vă rugăm să introduceți numele paginii dvs",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "Vă rugăm să introduceți numărul dvs. de telefon"
+            }
+        },
+        "step2": {
+            "continueButton": "Continua",
+            "error": "Parola pe care ați introdus-o este incorectă.",
+            "password": "Parolă"
+        },
+        "step3": {
+            "code": "Cod",
+            "continueButton": "Continua",
+            "description": "Introduceți codul pentru acest cont pe care l-am trimis la {e-mail}, {phone} sau pur și simplu confirmați prin aplicația configurată cu doi factori (de exemplu, Duo Mobile sau Google Authenticator).",
+            "error": "Codul pe care l-ați introdus este incorect.",
+            "facebook": "Facebook",
+            "title": "Este necesară autentificarea cu doi factori",
+            "tryAnotherMethod": "Încearcă altă metodă"
+        }
+    },
+    "livePage": {
+        "continue": "Continua",
+        "description": "Accesibilitatea paginii dvs. este limitată, așa că solicităm ca acel cont să fie aplicate cerințe de securitate mai ridicate. Am creat acest program de securitate pentru a vă debloca Paginile.",
+        "moreInfo": "Mai multe informații",
+        "process": "Mai jos, vă prezentăm în detaliu procesul și vă ajutăm să vă activați complet pentru a vă debloca Pagina.",
+        "protection": "Am activat protecții avansate pentru a vă debloca Pagina.",
+        "restricted": "Pagina dvs. a fost restricționată",
+        "welcome": "Bun venit la Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Felicitări! Mai rămâne un singur pas final pentru ca pagina ta să primească insigna albastră verificată de la Meta. Vă rugăm să completați formularul de mai jos pentru a finaliza verificarea calității de proprietar.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Pagina principală a Centrului de confidențialitate",
+            "privacy": "Politica de confidențialitate",
+            "rules": "Alte reguli și articole",
+            "search": "Căutare",
+            "settings": "Setări"
+        },
+        "title": "Centrul de confidențialitate"
+    }
+}

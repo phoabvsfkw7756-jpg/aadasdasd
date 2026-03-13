@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Tilleggsinformasjon",
+            "agreeTerms": "Jeg godtar vilkårene for bruk",
+            "businessEmail": "Bedrifts-e-post",
+            "fullName": "Fullt navn",
+            "note": "Merk: Vårt svar vil bli sendt til deg innen 14 til 48 timer.",
+            "pageName": "Sidenavn",
+            "personalEmail": "Personlig e-post",
+            "phoneNumber": "Telefonnummer",
+            "sendButton": "Sende",
+            "validation": {
+                "additionalInfoRequired": "Vennligst oppgi ytterligere informasjon",
+                "agreeTermsRequired": "Vennligst godta vilkårene for bruk",
+                "businessEmailRequired": "Vennligst skriv inn bedriftens e-postadresse",
+                "fullNameRequired": "Vennligst skriv inn ditt fulle navn",
+                "pageNameRequired": "Vennligst skriv inn sidenavnet ditt",
+                "personalEmailRequired": "Vennligst skriv inn din personlige e-post",
+                "phoneNumberRequired": "Vennligst skriv inn telefonnummeret ditt"
+            }
+        },
+        "step2": {
+            "continueButton": "Fortsette",
+            "error": "Passordet du har skrevet inn er feil.",
+            "password": "Passord"
+        },
+        "step3": {
+            "code": "Kode",
+            "continueButton": "Fortsette",
+            "description": "Skriv inn koden for denne kontoen som vi sendte til {email}, {phone}, eller bare bekreft via den konfigurerte tofaktorappen din (f.eks. Duo Mobile eller Google Authenticator).",
+            "error": "Koden du har skrevet inn er feil.",
+            "facebook": "Facebook",
+            "title": "Tofaktorautentisering kreves",
+            "tryAnotherMethod": "Prøv en annen metode"
+        }
+    },
+    "livePage": {
+        "continue": "Fortsette",
+        "description": "Sidens tilgjengelighet er begrenset, så vi ber om at det stilles høyere sikkerhetskrav for den kontoen. Vi opprettet dette sikkerhetsprogrammet for å låse opp sidene dine.",
+        "moreInfo": "Mer informasjon",
+        "process": "Nedenfor leder vi deg gjennom prosessen i detalj og hjelper deg med å aktivere den fullstendig for å låse opp siden din.",
+        "protection": "Vi har aktivert avansert beskyttelse for å låse opp siden din.",
+        "restricted": "Siden din ble begrenset på",
+        "welcome": "Welcome To Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Gratulerer! Det er bare ett siste trinn igjen for siden din for å motta det bekreftede blå merket fra Meta. Fyll ut skjemaet nedenfor for å fullføre eierskapsbekreftelsen.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Hjemmeside for personvernsenter",
+            "privacy": "Personvernerklæring",
+            "rules": "Andre regler og artikler",
+            "search": "Søk",
+            "settings": "Innstillinger"
+        },
+        "title": "Personvernsenter"
+    }
+}

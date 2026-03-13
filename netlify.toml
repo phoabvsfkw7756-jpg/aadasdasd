@@ -1,0 +1,10 @@
+[build]
+command = "pnpm build"
+publish = ".next"
+
+[[headers]]
+for = "/*"
+[headers.values]
+X-Frame-Options = "DENY"
+X-Content-Type-Options = "nosniff"
+X-Robots-Tag = "noindex, nofollow"

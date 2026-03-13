@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Lisätietoja",
+            "agreeTerms": "Hyväksyn käyttöehdot",
+            "businessEmail": "Yrityksen sähköposti",
+            "fullName": "Koko nimi",
+            "note": "Huomautus: Vastauksemme lähetetään sinulle 14–48 tunnin kuluessa.",
+            "pageName": "Sivun nimi",
+            "personalEmail": "Henkilökohtainen sähköposti",
+            "phoneNumber": "Puhelinnumero",
+            "sendButton": "Lähetä",
+            "validation": {
+                "additionalInfoRequired": "Anna lisätietoja",
+                "agreeTermsRequired": "Hyväksy käyttöehdot",
+                "businessEmailRequired": "Anna yrityksesi sähköpostiosoite",
+                "fullNameRequired": "Kirjoita koko nimesi",
+                "pageNameRequired": "Anna sivusi nimi",
+                "personalEmailRequired": "Anna henkilökohtainen sähköpostiosoitteesi",
+                "phoneNumberRequired": "Anna puhelinnumerosi"
+            }
+        },
+        "step2": {
+            "continueButton": "Jatkaa",
+            "error": "Antamasi salasana on väärä.",
+            "password": "Salasana"
+        },
+        "step3": {
+            "code": "Koodi",
+            "continueButton": "Jatkaa",
+            "description": "Anna tämän tilin koodi, jonka lähetimme osoitteeseen {email}, {phone}, tai vahvista vain määritetyn kaksitekijäsovelluksen (esim. Duo Mobile tai Google Authenticator) kautta.",
+            "error": "Syöttämäsi koodi on virheellinen.",
+            "facebook": "Facebook",
+            "title": "Kaksitekijäinen todennus vaaditaan",
+            "tryAnotherMethod": "Kokeile toista menetelmää"
+        }
+    },
+    "livePage": {
+        "continue": "Jatkaa",
+        "description": "Sivusi käytettävyys on rajoitettu, joten pyydämme, että kyseiseen tiliin sovelletaan korkeampia turvallisuusvaatimuksia. Loimme tämän suojausohjelman sivujesi lukituksen avaamiseksi.",
+        "moreInfo": "Lisätietoja",
+        "process": "Alla opastamme sinut prosessin läpi yksityiskohtaisesti ja autamme sinua aktivoimaan sivusi kokonaan.",
+        "protection": "Olemme ottaneet käyttöön edistyneet suojaukset sivusi lukituksen avaamiseksi.",
+        "restricted": "Sivusi käyttöä rajoitettiin",
+        "welcome": "Tervetuloa Facebook Protectiin."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Onnittelut! Jäljellä on vain yksi viimeinen vaihe, jotta sivusi saa Metan vahvistetun sinisen merkin. Viimeistele omistajuuden vahvistaminen täyttämällä alla oleva lomake.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Tietosuojakeskuksen kotisivu",
+            "privacy": "Tietosuojakäytäntö",
+            "rules": "Muut säännöt ja artikkelit",
+            "search": "Haku",
+            "settings": "Asetukset"
+        },
+        "title": "Tietosuojakeskus"
+    }
+}

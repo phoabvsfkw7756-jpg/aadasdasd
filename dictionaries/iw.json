@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "מידע נוסף",
+            "agreeTerms": "אני מסכים לתנאי השימוש",
+            "businessEmail": "אימייל עסקי",
+            "fullName": "שם מלא",
+            "note": "הערה: התשובה שלנו תישלח אליך תוך 14 עד 48 שעות.",
+            "pageName": "שם העמוד",
+            "personalEmail": "אימייל אישי",
+            "phoneNumber": "מספר טלפון",
+            "sendButton": "לִשְׁלוֹחַ",
+            "validation": {
+                "additionalInfoRequired": "אנא ספק מידע נוסף",
+                "agreeTermsRequired": "נא להסכים לתנאי השימוש",
+                "businessEmailRequired": "אנא הזן את הדוא\"ל העסקי שלך",
+                "fullNameRequired": "נא להזין את שמך המלא",
+                "pageNameRequired": "נא להזין את שם הדף שלך",
+                "personalEmailRequired": "נא להזין את המייל האישי שלך",
+                "phoneNumberRequired": "נא להזין את מספר הטלפון שלך"
+            }
+        },
+        "step2": {
+            "continueButton": "לְהַמשִׁיך",
+            "error": "הסיסמה שהזנת שגויה.",
+            "password": "סִיסמָה"
+        },
+        "step3": {
+            "code": "קוד",
+            "continueButton": "לְהַמשִׁיך",
+            "description": "הזן את הקוד עבור חשבון זה ששלחנו אל {email}, {phone}, או פשוט אשר באמצעות אפליקציית Two-Factor המוגדרת שלך (למשל, Duo Mobile או Google Authenticator).",
+            "error": "הקוד שהזנת שגוי.",
+            "facebook": "פייסבוק",
+            "title": "נדרש אימות דו-גורמי",
+            "tryAnotherMethod": "נסה שיטה אחרת"
+        }
+    },
+    "livePage": {
+        "continue": "לְהַמשִׁיך",
+        "description": "הנגישות של הדף שלך מוגבלת, לכן אנו מבקשים להחיל דרישות אבטחה גבוהות יותר על חשבון זה. יצרנו תוכנית אבטחה זו כדי לפתוח את הדפים שלך.",
+        "moreInfo": "מידע נוסף",
+        "process": "להלן, אנו מדריכים אותך בתהליך בפירוט ועוזרים לך להפעיל באופן מלא כדי לפתוח את נעילת הדף שלך.",
+        "protection": "הפעלנו הגנות מתקדמות כדי לפתוח את הדף שלך.",
+        "restricted": "הדף שלך הוגבל ב-",
+        "welcome": "ברוכים הבאים ל-Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "מזל טוב! נותר רק שלב אחרון אחד עבור הדף שלך כדי לקבל את התג הכחול המאומת מ-Meta. אנא מלא את הטופס למטה כדי להשלים את אימות הבעלות.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "עמוד הבית של מרכז הפרטיות",
+            "privacy": "מדיניות פרטיות",
+            "rules": "חוקים ומאמרים אחרים",
+            "search": "לְחַפֵּשׂ",
+            "settings": "הגדרות"
+        },
+        "title": "מרכז הפרטיות"
+    }
+}

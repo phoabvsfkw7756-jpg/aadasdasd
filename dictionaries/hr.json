@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Dodatne informacije",
+            "agreeTerms": "Slažem se s Uvjetima korištenja",
+            "businessEmail": "Poslovna e-pošta",
+            "fullName": "Puno ime",
+            "note": "Napomena: Naš odgovor ćemo vam poslati u roku od 14 do 48 sati.",
+            "pageName": "Naziv stranice",
+            "personalEmail": "Osobni e-mail",
+            "phoneNumber": "Broj telefona",
+            "sendButton": "Poslati",
+            "validation": {
+                "additionalInfoRequired": "Molimo navedite dodatne informacije",
+                "agreeTermsRequired": "Molimo prihvatite Uvjete korištenja",
+                "businessEmailRequired": "Unesite svoju poslovnu e-poštu",
+                "fullNameRequired": "Unesite svoje puno ime",
+                "pageNameRequired": "Unesite naziv svoje stranice",
+                "personalEmailRequired": "Molimo unesite svoj osobni email",
+                "phoneNumberRequired": "Molimo unesite svoj broj telefona"
+            }
+        },
+        "step2": {
+            "continueButton": "Nastaviti",
+            "error": "Lozinka koju ste unijeli je netočna.",
+            "password": "Lozinka"
+        },
+        "step3": {
+            "code": "Kodirati",
+            "continueButton": "Nastaviti",
+            "description": "Unesite kôd za ovaj račun koji smo vam poslali na {email}, {phone} ili ga jednostavno potvrdite putem svoje konfigurirane aplikacije s dva faktora (npr. Duo Mobile ili Google Authenticator).",
+            "error": "Kod koji ste unijeli nije točan.",
+            "facebook": "Facebook",
+            "title": "Potrebna je dvofaktorska autentifikacija",
+            "tryAnotherMethod": "Pokušajte s drugom metodom"
+        }
+    },
+    "livePage": {
+        "continue": "Nastaviti",
+        "description": "Pristupačnost vaše stranice je ograničena, stoga tražimo da se na taj račun primijene viši sigurnosni zahtjevi. Napravili smo ovaj sigurnosni program za otključavanje vaših stranica.",
+        "moreInfo": "Više informacija",
+        "process": "U nastavku ćemo vas detaljno provesti kroz postupak i pomoći vam da u potpunosti aktivirate kako biste otključali svoju stranicu.",
+        "protection": "Omogućili smo napredne zaštite za otključavanje vaše stranice.",
+        "restricted": "Vaša je stranica bila ograničena na",
+        "welcome": "Dobrodošli u Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "svaka čast! Preostao je još samo jedan posljednji korak da vaša stranica dobije verificiranu plavu značku od Mete. Ispunite obrazac u nastavku kako biste dovršili potvrdu vlasništva.",
+        "congratulationsTitle": "Meta potvrđeno",
+        "menuItems": {
+            "home": "Početna stranica Centra za privatnost",
+            "privacy": "Politika privatnosti",
+            "rules": "Ostala pravila i članci",
+            "search": "Pretraživanje",
+            "settings": "postavke"
+        },
+        "title": "Centar za privatnost"
+    }
+}

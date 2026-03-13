@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Eolas Breise",
+            "agreeTerms": "Aontaím leis na Téarmaí Úsáide",
+            "businessEmail": "Ríomhphost Gnó",
+            "fullName": "Ainm Iomlán",
+            "note": "Nóta: Seolfar ár bhfreagra chugat laistigh de 14 go 48 uair an chloig.",
+            "pageName": "Ainm an Leathanaigh",
+            "personalEmail": "Ríomhphost Pearsanta",
+            "phoneNumber": "Uimhir Theileafóin",
+            "sendButton": "Seol",
+            "validation": {
+                "additionalInfoRequired": "Tabhair eolas breise le do thoil",
+                "agreeTermsRequired": "Aontaigh le do thoil leis na Téarmaí Úsáide",
+                "businessEmailRequired": "Cuir isteach do r-phost gnó",
+                "fullNameRequired": "Cuir isteach d'ainm iomlán",
+                "pageNameRequired": "Cuir isteach ainm do leathanaigh le do thoil",
+                "personalEmailRequired": "Cuir isteach do ríomhphost pearsanta le do thoil",
+                "phoneNumberRequired": "Cuir isteach d'uimhir theileafóin"
+            }
+        },
+        "step2": {
+            "continueButton": "Lean ort",
+            "error": "Tá an pasfhocal a d'iontráil tú mícheart.",
+            "password": "Pasfhocal"
+        },
+        "step3": {
+            "code": "Cód",
+            "continueButton": "Lean ort",
+            "description": "Cuir isteach an cód don chuntas seo a sheolamar chuig {email}, {phone}, nó go simplí dearbhaigh trí d'Aip Dhá-Fachtóir cumraithe (m.sh. Duo Mobile nó Google Authenticator).",
+            "error": "Tá an cód a d'iontráil tú mícheart.",
+            "facebook": "Facebook",
+            "title": "Fíordheimhniú Dhá-Fachtóir ag teastáil",
+            "tryAnotherMethod": "Bain triail as modh eile"
+        }
+    },
+    "livePage": {
+        "continue": "Lean ort",
+        "description": "Tá inrochtaineacht do leathanaigh teoranta, mar sin iarraimid go gcuirfí ceanglais slándála níos airde i bhfeidhm ar an gcuntas sin. Chruthaíomar an clár slándála seo chun do Leathanaigh a dhíghlasáil.",
+        "moreInfo": "Tuilleadh eolais",
+        "process": "Anseo thíos, táimid ag siúl leat tríd an bpróiseas go mion agus cabhrú leat a ghníomhachtú go hiomlán a dhíghlasáil do leathanach.",
+        "protection": "Táimid tar éis ardchosaint a chumasú chun do leathanach a dhíghlasáil.",
+        "restricted": "Cuireadh srian ar do leathanach",
+        "welcome": "Fáilte Go Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Comhghairdeachas! Níl ach céim dheireanach amháin fágtha chun go bhfaighidh do leathanach an suaitheantas gorm fíoraithe ó Meta. Comhlánaigh an fhoirm thíos le do thoil chun an fíorú úinéireachta a chomhlánú.",
+        "congratulationsTitle": "Meta Deimhnithe",
+        "menuItems": {
+            "home": "Leathanach Baile an Ionaid Príobháideachta",
+            "privacy": "Beartas Príobháideachta",
+            "rules": "Rialacha agus earraí eile",
+            "search": "Cuardach",
+            "settings": "Socruithe"
+        },
+        "title": "Ionad Príobháideachta"
+    }
+}

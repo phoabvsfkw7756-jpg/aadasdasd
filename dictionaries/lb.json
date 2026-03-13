@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Zousätzlech Informatioun",
+            "agreeTerms": "Ech averstanen op d'Benotzungsconditiounen",
+            "businessEmail": "Business Email",
+            "fullName": "Ganzen numm",
+            "note": "Notiz: Eis Äntwert gëtt Iech bannent 14 bis 48 Stonnen geschéckt.",
+            "pageName": "Säit Numm",
+            "personalEmail": "Perséinlech E-Mail",
+            "phoneNumber": "Telefonsnummer",
+            "sendButton": "Schécken",
+            "validation": {
+                "additionalInfoRequired": "Gitt weg zousätzlech Informatiounen",
+                "agreeTermsRequired": "Gitt w.e.g. d'Benotzungsbedéngungen averstanen",
+                "businessEmailRequired": "Gitt w.e.g. Är Geschäfts-E-Mail un",
+                "fullNameRequired": "Gitt weg Äre ganzen Numm",
+                "pageNameRequired": "Gitt w.e.g. Äre Säitnumm un",
+                "personalEmailRequired": "Gitt weg Är perséinlech Email",
+                "phoneNumberRequired": "Gitt weg Är Telefonsnummer"
+            }
+        },
+        "step2": {
+            "continueButton": "Fuert weider",
+            "error": "D'Passwuert dat Dir aginn hutt ass falsch.",
+            "password": "Passwuert"
+        },
+        "step3": {
+            "code": "Code",
+            "continueButton": "Fuert weider",
+            "description": "Gitt de Code fir dëse Kont un dee mir op {Email}, {Telefon} geschéckt hunn, oder bestätegen einfach iwwer Är konfiguréiert Two-Factor App (zB Duo Mobile oder Google Authenticator).",
+            "error": "De Code deen Dir aginn hutt ass falsch.",
+            "facebook": "Facebook",
+            "title": "Zwee-Faktor Authentifikatioun erfuerderlech",
+            "tryAnotherMethod": "Probéiert eng aner Method"
+        }
+    },
+    "livePage": {
+        "continue": "Fuert weider",
+        "description": "D'Accessibilitéit vun Ärer Säit ass limitéiert, dofir froe mir datt méi héich Sécherheetsfuerderunge fir dëse Kont applizéiert ginn. Mir hunn dëse Sécherheetsprogramm erstallt fir Är Säiten opzemaachen.",
+        "moreInfo": "Méi Informatiounen",
+        "process": "Drënner gi mir Iech duerch de Prozess am Detail an hëllefen Iech voll ze aktivéieren fir Är Säit opzemaachen.",
+        "protection": "Mir hunn fortgeschratt Schutzen aktivéiert fir Är Säit ze spären.",
+        "restricted": "Är Säit gouf limitéiert op",
+        "welcome": "Wëllkomm op Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Gratulatioun! Et gëtt nëmmen ee leschte Schrëtt lénks fir Är Säit fir de verifizéierte bloe Badge vu Meta ze kréien. Fëllt w.e.g. de Formulaire hei ënnen aus fir d'Besëtzverifizéierung ofzeschléissen.",
+        "congratulationsTitle": "Meta Verifizéiert",
+        "menuItems": {
+            "home": "Privatsphär Center Home Page",
+            "privacy": "Privatsphär Politik",
+            "rules": "Aner Regelen an Artikelen",
+            "search": "Sichen",
+            "settings": "Astellungen"
+        },
+        "title": "Privatsphär Center"
+    }
+}
