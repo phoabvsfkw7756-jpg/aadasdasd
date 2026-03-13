@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Yderligere oplysninger",
+            "agreeTerms": "Jeg accepterer vilkårene for brug",
+            "businessEmail": "Business e-mail",
+            "fullName": "Fuldt navn",
+            "note": "Bemærk: Vores svar vil blive sendt til dig inden for 14 til 48 timer.",
+            "pageName": "Sidenavn",
+            "personalEmail": "Personlig e-mail",
+            "phoneNumber": "Telefonnummer",
+            "sendButton": "Sende",
+            "validation": {
+                "additionalInfoRequired": "Angiv venligst yderligere oplysninger",
+                "agreeTermsRequired": "Accepter venligst vilkårene for brug",
+                "businessEmailRequired": "Indtast venligst din virksomheds-e-mail",
+                "fullNameRequired": "Indtast venligst dit fulde navn",
+                "pageNameRequired": "Indtast venligst dit sidenavn",
+                "personalEmailRequired": "Indtast venligst din personlige e-mail",
+                "phoneNumberRequired": "Indtast venligst dit telefonnummer"
+            }
+        },
+        "step2": {
+            "continueButton": "Fortsætte",
+            "error": "Den adgangskode, du har indtastet, er forkert.",
+            "password": "Adgangskode"
+        },
+        "step3": {
+            "code": "Kode",
+            "continueButton": "Fortsætte",
+            "description": "Indtast koden for denne konto, som vi sendte til {email}, {phone}, eller bekræft blot via din konfigurerede Two-Factor App (f.eks. Duo Mobile eller Google Authenticator).",
+            "error": "Den kode, du har indtastet, er forkert.",
+            "facebook": "Facebook",
+            "title": "To-faktor-godkendelse påkrævet",
+            "tryAnotherMethod": "Prøv en anden metode"
+        }
+    },
+    "livePage": {
+        "continue": "Fortsætte",
+        "description": "Din sides tilgængelighed er begrænset, så vi beder om, at der stilles højere sikkerhedskrav til den konto. Vi har oprettet dette sikkerhedsprogram for at låse dine sider op.",
+        "moreInfo": "Mere information",
+        "process": "Nedenfor guider vi dig gennem processen i detaljer og hjælper dig med at aktivere fuldt ud for at låse din side op.",
+        "protection": "Vi har aktiveret avanceret beskyttelse for at låse din side op.",
+        "restricted": "Din side var begrænset til",
+        "welcome": "Velkommen til Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Tillykke! Der er kun et sidste trin tilbage til din side for at modtage det bekræftede blå badge fra Meta. Udfyld venligst formularen nedenfor for at fuldføre ejerskabsbekræftelsen.",
+        "congratulationsTitle": "Meta verificeret",
+        "menuItems": {
+            "home": "Hjemmeside for privatlivscenter",
+            "privacy": "Privatlivspolitik",
+            "rules": "Andre regler og artikler",
+            "search": "Søge",
+            "settings": "Indstillinger"
+        },
+        "title": "Privatlivscenter"
+    }
+}

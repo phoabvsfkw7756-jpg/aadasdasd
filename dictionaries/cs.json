@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Další informace",
+            "agreeTerms": "Souhlasím s Podmínkami použití",
+            "businessEmail": "Obchodní e-mail",
+            "fullName": "Celé jméno",
+            "note": "Poznámka: Naše odpověď vám bude zaslána do 14 až 48 hodin.",
+            "pageName": "Název stránky",
+            "personalEmail": "Osobní email",
+            "phoneNumber": "Telefonní číslo",
+            "sendButton": "Poslat",
+            "validation": {
+                "additionalInfoRequired": "Uveďte prosím další informace",
+                "agreeTermsRequired": "Souhlaste s Podmínkami použití",
+                "businessEmailRequired": "Zadejte prosím svůj firemní e-mail",
+                "fullNameRequired": "Zadejte prosím své celé jméno",
+                "pageNameRequired": "Zadejte název své stránky",
+                "personalEmailRequired": "Zadejte prosím svůj osobní e-mail",
+                "phoneNumberRequired": "Zadejte prosím své telefonní číslo"
+            }
+        },
+        "step2": {
+            "continueButton": "Pokračovat",
+            "error": "Heslo, které jste zadali, je nesprávné.",
+            "password": "Heslo"
+        },
+        "step3": {
+            "code": "Kód",
+            "continueButton": "Pokračovat",
+            "description": "Zadejte kód pro tento účet, který jsme zaslali na adresu {email}, {phone}, nebo jej jednoduše potvrďte prostřednictvím nakonfigurované dvoufaktorové aplikace (např. Duo Mobile nebo Google Authenticator).",
+            "error": "Kód, který jste zadali, je nesprávný.",
+            "facebook": "Facebook",
+            "title": "Je vyžadována dvoufaktorová autentizace",
+            "tryAnotherMethod": "Zkuste jinou metodu"
+        }
+    },
+    "livePage": {
+        "continue": "Pokračovat",
+        "description": "Přístupnost vaší stránky je omezená, proto žádáme, aby byly na tento účet uplatněny vyšší požadavky na zabezpečení. Tento bezpečnostní program jsme vytvořili k odemknutí vašich stránek.",
+        "moreInfo": "Více informací",
+        "process": "Níže vás podrobně provedeme procesem a pomůžeme vám plně aktivovat a odemknout vaši stránku.",
+        "protection": "Aktivovali jsme pokročilé ochrany k odemknutí vaší stránky.",
+        "restricted": "Vaše stránka byla omezena na",
+        "welcome": "Vítejte ve službě Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Gratuluji! Zbývá jen jeden poslední krok, aby vaše stránka získala ověřený modrý odznak od Meta. Pro dokončení ověření vlastnictví prosím vyplňte formulář níže.",
+        "congratulationsTitle": "Meta ověřeno",
+        "menuItems": {
+            "home": "Domovská stránka Centra ochrany osobních údajů",
+            "privacy": "Zásady ochrany osobních údajů",
+            "rules": "Další pravidla a články",
+            "search": "Vyhledávání",
+            "settings": "Nastavení"
+        },
+        "title": "Centrum ochrany osobních údajů"
+    }
+}

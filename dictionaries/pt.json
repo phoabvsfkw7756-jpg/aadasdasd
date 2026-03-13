@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "Eu concordo com os Termos de Uso",
+            "businessEmail": "Business Email",
+            "fullName": "Nome completo",
+            "note": "Nota: Nossa resposta será enviada a você dentro de 14 a 48 horas.",
+            "pageName": "Nome da página",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "Número de telefone",
+            "sendButton": "Enviar",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "Por favor, concorde com os Termos de Uso",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "Por favor insira seu nome completo",
+                "pageNameRequired": "Por favor insira o nome da sua página",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "Por favor insira seu número de telefone"
+            }
+        },
+        "step2": {
+            "continueButton": "Continuar",
+            "error": "A senha que você digitou está incorreta.",
+            "password": "Senha"
+        },
+        "step3": {
+            "code": "Código",
+            "continueButton": "Continuar",
+            "description": "Digite o código desta conta que enviamos para {email}, {phone} ou simplesmente confirme através do seu aplicativo Two-Factor configurado (por exemplo, Duo Mobile ou Google Authenticator).",
+            "error": "O código que você digitou está incorreto.",
+            "facebook": "Facebook",
+            "title": "Autenticação de dois fatores necessária",
+            "tryAnotherMethod": "Tente outro método"
+        }
+    },
+    "livePage": {
+        "continue": "Continuar",
+        "description": "A acessibilidade da sua página é limitada, por isso pedimos que sejam aplicados requisitos de segurança mais elevados a essa conta. Criamos este programa de segurança para desbloquear suas páginas.",
+        "moreInfo": "Mais informações",
+        "process": "Abaixo, orientamos você detalhadamente no processo e ajudamos você a ativar totalmente para desbloquear sua página.",
+        "protection": "Habilitamos proteções avançadas para desbloquear sua página.",
+        "restricted": "Sua página foi restrita em",
+        "welcome": "Bem-vindo ao Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Parabéns! Falta apenas uma etapa final para que sua página receba o selo azul verificado do Meta. Preencha o formulário abaixo para concluir a verificação de propriedade.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Página inicial do Centro de privacidade",
+            "privacy": "política de Privacidade",
+            "rules": "Outras regras e artigos",
+            "search": "Procurar",
+            "settings": "Configurações"
+        },
+        "title": "Centro de privacidade"
+    }
+}

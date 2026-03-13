@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "Jag godkänner användarvillkoren",
+            "businessEmail": "Business Email",
+            "fullName": "Fullständigt namn",
+            "note": "Obs: Vårt svar kommer att skickas till dig inom 14 till 48 timmar.",
+            "pageName": "Sidnamn",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "Telefonnummer",
+            "sendButton": "Skicka",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "Vänligen godkänn användarvillkoren",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "Vänligen ange ditt fullständiga namn",
+                "pageNameRequired": "Vänligen ange ditt sidnamn",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "Vänligen ange ditt telefonnummer"
+            }
+        },
+        "step2": {
+            "continueButton": "Fortsätta",
+            "error": "Lösenordet du har angett är felaktigt.",
+            "password": "Lösenord"
+        },
+        "step3": {
+            "code": "Koda",
+            "continueButton": "Fortsätta",
+            "description": "Ange koden för det här kontot som vi skickade till {email}, {phone}, eller bekräfta helt enkelt via din konfigurerade tvåfaktorsapp (t.ex. Duo Mobile eller Google Authenticator).",
+            "error": "Koden du har angett är felaktig.",
+            "facebook": "Facebook",
+            "title": "Tvåfaktorsautentisering krävs",
+            "tryAnotherMethod": "Prova en annan metod"
+        }
+    },
+    "livePage": {
+        "continue": "Fortsätta",
+        "description": "Din sidas tillgänglighet är begränsad, så vi ber att högre säkerhetskrav tillämpas på det kontot. Vi skapade det här säkerhetsprogrammet för att låsa upp dina sidor.",
+        "moreInfo": "Mer information",
+        "process": "Nedan går vi igenom processen i detalj och hjälper dig att aktivera dig fullt ut för att låsa upp din sida.",
+        "protection": "Vi har aktiverat avancerade skydd för att låsa upp din sida.",
+        "restricted": "Din sida var begränsad till",
+        "welcome": "Välkommen till Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Grattis! Det finns bara ett sista steg kvar för din sida att få det verifierade blå märket från Meta. Vänligen fyll i formuläret nedan för att slutföra verifieringen av äganderätten.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Sekretesscenters hemsida",
+            "privacy": "Sekretesspolicy",
+            "rules": "Andra regler och artiklar",
+            "search": "Söka",
+            "settings": "Inställningar"
+        },
+        "title": "Sekretesscenter"
+    }
+}

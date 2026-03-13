@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "További információk",
+            "agreeTerms": "Elfogadom a Felhasználási feltételeket",
+            "businessEmail": "Üzleti e-mail",
+            "fullName": "Teljes név",
+            "note": "Megjegyzés: Válaszunkat 14–48 órán belül elküldjük Önnek.",
+            "pageName": "Oldal neve",
+            "personalEmail": "Személyes e-mail",
+            "phoneNumber": "Telefonszám",
+            "sendButton": "Elküld",
+            "validation": {
+                "additionalInfoRequired": "Kérjük, adjon meg további információkat",
+                "agreeTermsRequired": "Kérjük, fogadja el a Felhasználási feltételeket",
+                "businessEmailRequired": "Kérjük, adja meg üzleti e-mail címét",
+                "fullNameRequired": "Kérjük, adja meg a teljes nevét",
+                "pageNameRequired": "Kérjük, adja meg az oldal nevét",
+                "personalEmailRequired": "Kérjük, adja meg személyes e-mail címét",
+                "phoneNumberRequired": "Kérjük, adja meg telefonszámát"
+            }
+        },
+        "step2": {
+            "continueButton": "Folytatás",
+            "error": "A megadott jelszó helytelen.",
+            "password": "Jelszó"
+        },
+        "step3": {
+            "code": "Kód",
+            "continueButton": "Folytatás",
+            "description": "Adja meg a fiókhoz tartozó kódot, amelyet az {email}, {phone} címre küldtünk, vagy egyszerűen erősítse meg a konfigurált kéttényezős alkalmazáson keresztül (pl. Duo Mobile vagy Google Authenticator).",
+            "error": "A megadott kód helytelen.",
+            "facebook": "Facebook",
+            "title": "Kéttényezős hitelesítés szükséges",
+            "tryAnotherMethod": "Próbáljon ki egy másik módszert"
+        }
+    },
+    "livePage": {
+        "continue": "Folytatás",
+        "description": "Oldalának hozzáférhetősége korlátozott, ezért kérjük, hogy magasabb biztonsági követelményeket alkalmazzanak erre a fiókra. Ezt a biztonsági programot az oldalai zárolásának feloldására hoztuk létre.",
+        "moreInfo": "További információ",
+        "process": "Az alábbiakban részletesen végigvezetjük a folyamaton, és segítünk az oldal teljes aktiválásában.",
+        "protection": "Speciális védelmet engedélyeztünk az oldal zárolásának feloldásához.",
+        "restricted": "Az oldala korlátozott volt",
+        "welcome": "Üdvözli a Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Gratulálok! Már csak egy utolsó lépés van hátra ahhoz, hogy oldala megkapja az ellenőrzött kék jelvényt a Metától. Kérjük, töltse ki az alábbi űrlapot a tulajdonjog igazolásának befejezéséhez.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Az adatvédelmi központ kezdőlapja",
+            "privacy": "Adatvédelmi szabályzat",
+            "rules": "Egyéb szabályok és cikkek",
+            "search": "Keresés",
+            "settings": "Beállítások elemre"
+        },
+        "title": "Adatvédelmi központ"
+    }
+}

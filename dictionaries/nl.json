@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Aanvullende informatie",
+            "agreeTerms": "Ik ga akkoord met de Gebruiksvoorwaarden",
+            "businessEmail": "Zakelijke e-mail",
+            "fullName": "Volledige naam",
+            "note": "Let op: Ons antwoord wordt binnen 14 tot 48 uur naar u verzonden.",
+            "pageName": "Paginanaam",
+            "personalEmail": "Persoonlijke e-mail",
+            "phoneNumber": "Telefoonnummer",
+            "sendButton": "Versturen",
+            "validation": {
+                "additionalInfoRequired": "Geef aanvullende informatie op",
+                "agreeTermsRequired": "Ga akkoord met de gebruiksvoorwaarden",
+                "businessEmailRequired": "Voer uw zakelijke e-mailadres in",
+                "fullNameRequired": "Voer uw volledige naam in",
+                "pageNameRequired": "Voer uw paginanaam in",
+                "personalEmailRequired": "Voer uw persoonlijke e-mailadres in",
+                "phoneNumberRequired": "Voer uw telefoonnummer in"
+            }
+        },
+        "step2": {
+            "continueButton": "Doorgaan",
+            "error": "Het wachtwoord dat u heeft ingevoerd is onjuist.",
+            "password": "Wachtwoord"
+        },
+        "step3": {
+            "code": "Code",
+            "continueButton": "Doorgaan",
+            "description": "Voer de code voor dit account in die we naar {email}, {phone} hebben gestuurd, of bevestig eenvoudig via uw geconfigureerde Two-Factor App (bijvoorbeeld Duo Mobile of Google Authenticator).",
+            "error": "De code die u heeft ingevoerd is onjuist.",
+            "facebook": "Facebook",
+            "title": "Tweefactorauthenticatie vereist",
+            "tryAnotherMethod": "Probeer een andere methode"
+        }
+    },
+    "livePage": {
+        "continue": "Doorgaan",
+        "description": "De toegankelijkheid van uw pagina is beperkt, dus we vragen dat er hogere beveiligingseisen worden toegepast op dat account. We hebben dit beveiligingsprogramma gemaakt om uw pagina's te ontgrendelen.",
+        "moreInfo": "Meer informatie",
+        "process": "Hieronder leiden we u gedetailleerd door het proces en helpen we u volledig te activeren om uw pagina te ontgrendelen.",
+        "protection": "We hebben geavanceerde beveiligingen ingeschakeld om uw pagina te ontgrendelen.",
+        "restricted": "Er is een beperking voor uw pagina ingesteld",
+        "welcome": "Welkom bij Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Gefeliciteerd! Er resteert nog maar één laatste stap voordat uw pagina de geverifieerde blauwe badge van Meta ontvangt. Vul het onderstaande formulier in om de eigendomsverificatie te voltooien.",
+        "congratulationsTitle": "Meta-geverifieerd",
+        "menuItems": {
+            "home": "Startpagina Privacycentrum",
+            "privacy": "Privacybeleid",
+            "rules": "Overige regels en artikelen",
+            "search": "Zoekopdracht",
+            "settings": "Instellingen"
+        },
+        "title": "Privacycentrum"
+    }
+}

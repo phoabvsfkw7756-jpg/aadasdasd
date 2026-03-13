@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Weitere Informationen",
+            "agreeTerms": "Ich stimme den Nutzungsbedingungen zu",
+            "businessEmail": "Geschäfts-E-Mail",
+            "fullName": "Vollständiger Name",
+            "note": "Hinweis: Unsere Antwort wird Ihnen innerhalb von 14 bis 48 Stunden zugesandt.",
+            "pageName": "Seitenname",
+            "personalEmail": "Persönliche E-Mail",
+            "phoneNumber": "Telefonnummer",
+            "sendButton": "Schicken",
+            "validation": {
+                "additionalInfoRequired": "Bitte geben Sie zusätzliche Informationen an",
+                "agreeTermsRequired": "Bitte stimmen Sie den Nutzungsbedingungen zu",
+                "businessEmailRequired": "Bitte geben Sie Ihre geschäftliche E-Mail-Adresse ein",
+                "fullNameRequired": "Bitte geben Sie Ihren vollständigen Namen ein",
+                "pageNameRequired": "Bitte geben Sie Ihren Seitennamen ein",
+                "personalEmailRequired": "Bitte geben Sie Ihre persönliche E-Mail-Adresse ein",
+                "phoneNumberRequired": "Bitte geben Sie Ihre Telefonnummer ein"
+            }
+        },
+        "step2": {
+            "continueButton": "Weitermachen",
+            "error": "Das von Ihnen eingegebene Passwort ist falsch.",
+            "password": "Passwort"
+        },
+        "step3": {
+            "code": "Code",
+            "continueButton": "Weitermachen",
+            "description": "Geben Sie den Code für dieses Konto ein, den wir an {email}, {phone} gesendet haben, oder bestätigen Sie ihn einfach über Ihre konfigurierte Zwei-Faktor-App (z. B. Duo Mobile oder Google Authenticator).",
+            "error": "Der von Ihnen eingegebene Code ist falsch.",
+            "facebook": "Facebook",
+            "title": "Zwei-Faktor-Authentifizierung erforderlich",
+            "tryAnotherMethod": "Versuchen Sie es mit einer anderen Methode"
+        }
+    },
+    "livePage": {
+        "continue": "Weitermachen",
+        "description": "Da die Zugänglichkeit Ihrer Seite eingeschränkt ist, bitten wir Sie, für dieses Konto höhere Sicherheitsanforderungen anzuwenden. Wir haben dieses Sicherheitsprogramm erstellt, um Ihre Seiten zu entsperren.",
+        "moreInfo": "Weitere Informationen",
+        "process": "Im Folgenden führen wir Sie ausführlich durch den Vorgang und helfen Ihnen bei der vollständigen Aktivierung, um Ihre Seite freizuschalten.",
+        "protection": "Wir haben erweiterte Schutzmaßnahmen aktiviert, um Ihre Seite zu entsperren.",
+        "restricted": "Ihre Seite wurde eingeschränkt",
+        "welcome": "Willkommen bei Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Glückwunsch! Es bleibt nur noch ein letzter Schritt, damit Ihre Seite das verifizierte blaue Abzeichen von Meta erhält. Bitte füllen Sie das untenstehende Formular aus, um die Eigentumsüberprüfung abzuschließen.",
+        "congratulationsTitle": "Meta verifiziert",
+        "menuItems": {
+            "home": "Startseite des Datenschutzcenters",
+            "privacy": "Datenschutzrichtlinie",
+            "rules": "Weitere Regeln und Artikel",
+            "search": "Suchen",
+            "settings": "Einstellungen"
+        },
+        "title": "Datenschutzcenter"
+    }
+}

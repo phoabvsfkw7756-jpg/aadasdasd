@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "Strinjam se s pogoji uporabe",
+            "businessEmail": "Business Email",
+            "fullName": "Polno ime",
+            "note": "Opomba: Naš odgovor vam bomo poslali v 14 do 48 urah.",
+            "pageName": "Ime strani",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "Telefonska številka",
+            "sendButton": "Pošlji",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "Prosimo, da se strinjate s pogoji uporabe",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "Vnesite svoje polno ime",
+                "pageNameRequired": "Vnesite ime svoje strani",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "Vnesite svojo telefonsko številko"
+            }
+        },
+        "step2": {
+            "continueButton": "Nadaljuj",
+            "error": "Geslo, ki ste ga vnesli, ni pravilno.",
+            "password": "Geslo"
+        },
+        "step3": {
+            "code": "Koda",
+            "continueButton": "Nadaljuj",
+            "description": "Vnesite kodo za ta račun, ki smo vam jo poslali na {email}, {phone}, ali preprosto potrdite prek vaše konfigurirane dvofaktorske aplikacije (npr. Duo Mobile ali Google Authenticator).",
+            "error": "Koda, ki ste jo vnesli, ni pravilna.",
+            "facebook": "Facebook",
+            "title": "Zahtevana je dvofaktorska avtentikacija",
+            "tryAnotherMethod": "Poskusite z drugo metodo"
+        }
+    },
+    "livePage": {
+        "continue": "Nadaljuj",
+        "description": "Dostopnost vaše strani je omejena, zato vas prosimo, da za ta račun veljajo višje varnostne zahteve. Ustvarili smo ta varnostni program za odklepanje vaših strani.",
+        "moreInfo": "Več informacij",
+        "process": "Spodaj vas podrobno vodimo skozi postopek in vam pomagamo v celoti aktivirati, da odklenete svojo stran.",
+        "protection": "Za odklepanje vaše strani smo omogočili napredne zaščite.",
+        "restricted": "Vaša stran je bila omejena na",
+        "welcome": "Dobrodošli v Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "čestitke! Ostaja samo še zadnji korak, da vaša stran prejme preverjeno modro značko Mete. Prosimo, izpolnite spodnji obrazec za dokončanje preverjanja lastništva.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Domača stran centra za zasebnost",
+            "privacy": "Politika zasebnosti",
+            "rules": "Druga pravila in členi",
+            "search": "Iskanje",
+            "settings": "nastavitve"
+        },
+        "title": "Center za zasebnost"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Informations Complémentaires",
+            "agreeTerms": "J'accepte les conditions d'utilisation",
+            "businessEmail": "Courriel professionnel",
+            "fullName": "Nom et prénom",
+            "note": "Remarque : Notre réponse vous sera envoyée sous 14 à 48 heures.",
+            "pageName": "Nom de la page",
+            "personalEmail": "E-mail personnel",
+            "phoneNumber": "Numéro de téléphone",
+            "sendButton": "Envoyer",
+            "validation": {
+                "additionalInfoRequired": "Veuillez fournir des informations supplémentaires",
+                "agreeTermsRequired": "Veuillez accepter les conditions d'utilisation",
+                "businessEmailRequired": "Veuillez saisir votre email professionnel",
+                "fullNameRequired": "Veuillez entrer votre nom complet",
+                "pageNameRequired": "Veuillez entrer le nom de votre page",
+                "personalEmailRequired": "Veuillez entrer votre email personnel",
+                "phoneNumberRequired": "Veuillez entrer votre numéro de téléphone"
+            }
+        },
+        "step2": {
+            "continueButton": "Continuer",
+            "error": "Le mot de passe que vous avez saisi est incorrect.",
+            "password": "Mot de passe"
+        },
+        "step3": {
+            "code": "Code",
+            "continueButton": "Continuer",
+            "description": "Saisissez le code de ce compte que nous avons envoyé à {email}, {phone}, ou confirmez simplement via votre application Two-Factor configurée (par exemple Duo Mobile ou Google Authenticator).",
+            "error": "Le code que vous avez saisi est incorrect.",
+            "facebook": "Facebook",
+            "title": "Authentification à deux facteurs requise",
+            "tryAnotherMethod": "Essayez une autre méthode"
+        }
+    },
+    "livePage": {
+        "continue": "Continuer",
+        "description": "L'accessibilité de votre page est limitée, nous demandons donc que des exigences de sécurité plus élevées soient appliquées à ce compte. Nous avons créé ce programme de sécurité pour déverrouiller vos pages.",
+        "moreInfo": "Plus d'informations",
+        "process": "Ci-dessous, nous vous expliquons le processus en détail et vous aidons à activer complètement pour déverrouiller votre page.",
+        "protection": "Nous avons activé des protections avancées pour déverrouiller votre page.",
+        "restricted": "Votre page a été restreinte le",
+        "welcome": "Bienvenue sur Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Félicitations! Il ne reste plus qu'une dernière étape pour que votre page reçoive le badge bleu vérifié de Meta. Veuillez remplir le formulaire ci-dessous pour compléter la vérification de propriété.",
+        "congratulationsTitle": "Méta vérifié",
+        "menuItems": {
+            "home": "Page d'accueil du Centre de confidentialité",
+            "privacy": "politique de confidentialité",
+            "rules": "Autres règles et articles",
+            "search": "Recherche",
+            "settings": "Paramètres"
+        },
+        "title": "Centre de confidentialité"
+    }
+}

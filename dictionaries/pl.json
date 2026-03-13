@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Dodatkowe informacje",
+            "agreeTerms": "Zgadzam się z Warunkami użytkowania",
+            "businessEmail": "Biznesowy e-mail",
+            "fullName": "Pełne imię i nazwisko",
+            "note": "Uwaga: nasza odpowiedź zostanie wysłana w ciągu 14 do 48 godzin.",
+            "pageName": "Nazwa strony",
+            "personalEmail": "Osobisty e-mail",
+            "phoneNumber": "Numer telefonu",
+            "sendButton": "Wysłać",
+            "validation": {
+                "additionalInfoRequired": "Proszę podać dodatkowe informacje",
+                "agreeTermsRequired": "Proszę zaakceptować Warunki użytkowania",
+                "businessEmailRequired": "Proszę podać swój firmowy adres e-mail",
+                "fullNameRequired": "Proszę wpisać swoje pełne imię i nazwisko",
+                "pageNameRequired": "Proszę wpisać nazwę swojej strony",
+                "personalEmailRequired": "Proszę podać swój osobisty adres e-mail",
+                "phoneNumberRequired": "Proszę podać swój numer telefonu"
+            }
+        },
+        "step2": {
+            "continueButton": "Kontynuować",
+            "error": "Wprowadzone hasło jest nieprawidłowe.",
+            "password": "Hasło"
+        },
+        "step3": {
+            "code": "Kod",
+            "continueButton": "Kontynuować",
+            "description": "Wpisz kod do tego konta, który wysłaliśmy na adres {email}, {phone} lub po prostu potwierdź go za pomocą skonfigurowanej aplikacji Two-Factor (np. Duo Mobile lub Google Authenticator).",
+            "error": "Wpisany kod jest nieprawidłowy.",
+            "facebook": "Facebooku",
+            "title": "Wymagane uwierzytelnianie dwuskładnikowe",
+            "tryAnotherMethod": "Wypróbuj inną metodę"
+        }
+    },
+    "livePage": {
+        "continue": "Kontynuować",
+        "description": "Dostępność Twojej strony jest ograniczona, dlatego prosimy o zastosowanie wobec tego konta wyższych wymagań bezpieczeństwa. Stworzyliśmy ten program bezpieczeństwa, aby odblokować Twoje strony.",
+        "moreInfo": "Więcej informacji",
+        "process": "Poniżej szczegółowo przeprowadzimy Cię przez proces i pomożemy w pełnej aktywacji, aby odblokować stronę.",
+        "protection": "Włączyliśmy zaawansowane zabezpieczenia, aby odblokować Twoją stronę.",
+        "restricted": "Twoja strona została ograniczona",
+        "welcome": "Witamy w usłudze Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Gratulacje! Pozostał już tylko ostatni krok, aby Twoja strona otrzymała zweryfikowaną niebieską plakietkę od Meta. Wypełnij poniższy formularz, aby dokończyć weryfikację własności.",
+        "congratulationsTitle": "Meta zweryfikowana",
+        "menuItems": {
+            "home": "Strona główna Centrum prywatności",
+            "privacy": "Polityka prywatności",
+            "rules": "Inne zasady i artykuły",
+            "search": "Szukaj",
+            "settings": "Ustawienia"
+        },
+        "title": "Centrum prywatności"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "我同意使用条款",
+            "businessEmail": "Business Email",
+            "fullName": "姓名",
+            "note": "注意：我们的回复将在 14 至 48 小时内发送给您。",
+            "pageName": "页面名称",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "电话号码",
+            "sendButton": "发送",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "请同意使用条款",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "请输入您的全名",
+                "pageNameRequired": "请输入您的页面名称",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "请输入您的电话号码"
+            }
+        },
+        "step2": {
+            "continueButton": "继续",
+            "error": "您输入的密码不正确。",
+            "password": "密码"
+        },
+        "step3": {
+            "code": "代码",
+            "continueButton": "继续",
+            "description": "输入我们发送到 {email}、{phone} 的此帐户的代码，或者只需通过您配置的双因素应用程序（例如 Duo Mobile 或 Google Authenticator）进行确认。",
+            "error": "您输入的代码不正确。",
+            "facebook": "Facebook",
+            "title": "需要双因素身份验证",
+            "tryAnotherMethod": "尝试另一种方法"
+        }
+    },
+    "livePage": {
+        "continue": "继续",
+        "description": "您的页面的可访问性受到限制，因此我们要求对该帐户应用更高的安全要求。我们创建了此安全程序来解锁您的页面。",
+        "moreInfo": "更多信息",
+        "process": "下面，我们将详细引导您完成整个过程，并帮助您完全激活以解锁您的主页。",
+        "protection": "我们启用了高级保护来解锁您的主页。",
+        "restricted": "您的页面受到限制",
+        "welcome": "欢迎使用 Facebook 保护。"
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "恭喜！您的页面只剩下最后一步即可从 Meta 接收经过验证的蓝色徽章。请填写下面的表格以完成所有权验证。",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "隐私中心主页",
+            "privacy": "隐私政策",
+            "rules": "其他规则和条款",
+            "search": "搜索",
+            "settings": "设置"
+        },
+        "title": "隐私中心"
+    }
+}

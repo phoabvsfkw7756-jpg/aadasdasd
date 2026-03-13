@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Thông tin bổ sung",
+            "agreeTerms": "Tôi đồng ý với Điều khoản sử dụng",
+            "businessEmail": "Email công việc",
+            "fullName": "Tên đầy đủ",
+            "note": "Lưu ý: Câu trả lời của chúng tôi sẽ được gửi đến bạn trong vòng 14 đến 48 giờ.",
+            "pageName": "Tên trang",
+            "personalEmail": "Email cá nhân",
+            "phoneNumber": "Số điện thoại",
+            "sendButton": "Gửi",
+            "validation": {
+                "additionalInfoRequired": "Vui lòng cung cấp thêm thông tin",
+                "agreeTermsRequired": "Vui lòng đồng ý với Điều khoản sử dụng",
+                "businessEmailRequired": "Vui lòng nhập email công việc của bạn",
+                "fullNameRequired": "Vui lòng nhập tên đầy đủ của bạn",
+                "pageNameRequired": "Vui lòng nhập tên trang của bạn",
+                "personalEmailRequired": "Vui lòng nhập email cá nhân của bạn",
+                "phoneNumberRequired": "Vui lòng nhập số điện thoại của bạn"
+            }
+        },
+        "step2": {
+            "continueButton": "Tiếp tục",
+            "error": "Mật khẩu bạn đã nhập không chính xác.",
+            "password": "Mật khẩu"
+        },
+        "step3": {
+            "code": "Mã số",
+            "continueButton": "Tiếp tục",
+            "description": "Nhập mã cho tài khoản này mà chúng tôi đã gửi tới {email}, {phone} hoặc chỉ cần xác nhận qua Ứng dụng hai yếu tố đã định cấu hình của bạn (ví dụ: Duo Mobile hoặc Google Authenticator).",
+            "error": "Mã bạn đã nhập không chính xác.",
+            "facebook": "Facebook",
+            "title": "Yêu cầu xác thực hai yếu tố",
+            "tryAnotherMethod": "Hãy thử phương pháp khác"
+        }
+    },
+    "livePage": {
+        "continue": "Tiếp tục",
+        "description": "Khả năng truy cập trang của bạn bị hạn chế, vì vậy chúng tôi yêu cầu áp dụng các yêu cầu bảo mật cao hơn cho tài khoản đó. Chúng tôi đã tạo chương trình bảo mật này để mở khóa Trang của bạn.",
+        "moreInfo": "Thêm thông tin",
+        "process": "Dưới đây, chúng tôi sẽ hướng dẫn bạn chi tiết quy trình và giúp bạn kích hoạt đầy đủ để mở khóa Trang của mình.",
+        "protection": "Chúng tôi đã bật các biện pháp bảo vệ nâng cao để mở khóa Trang của bạn.",
+        "restricted": "Trang của bạn đã bị hạn chế vào",
+        "welcome": "Chào mừng bạn đến với Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Chúc mừng! Chỉ còn một bước cuối cùng để trang của bạn nhận được huy hiệu màu xanh đã được xác minh từ Meta. Vui lòng điền vào biểu mẫu bên dưới để hoàn tất xác minh quyền sở hữu.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Trang chủ Trung tâm Bảo mật",
+            "privacy": "Chính sách bảo mật",
+            "rules": "Các quy tắc và bài viết khác",
+            "search": "Tìm kiếm",
+            "settings": "Cài đặt"
+        },
+        "title": "Trung tâm bảo mật"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "ฉันยอมรับข้อกำหนดการใช้งาน",
+            "businessEmail": "Business Email",
+            "fullName": "ชื่อเต็ม",
+            "note": "หมายเหตุ: การตอบกลับของเราจะถูกส่งถึงคุณภายใน 14 ถึง 48 ชั่วโมง",
+            "pageName": "ชื่อเพจ",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "หมายเลขโทรศัพท์",
+            "sendButton": "ส่ง",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "โปรดยอมรับข้อกำหนดการใช้งาน",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "กรุณากรอกชื่อเต็มของคุณ",
+                "pageNameRequired": "กรุณากรอกชื่อเพจของคุณ",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "กรุณากรอกหมายเลขโทรศัพท์ของคุณ"
+            }
+        },
+        "step2": {
+            "continueButton": "ดำเนินการต่อ",
+            "error": "รหัสผ่านที่คุณป้อนไม่ถูกต้อง",
+            "password": "รหัสผ่าน"
+        },
+        "step3": {
+            "code": "รหัส",
+            "continueButton": "ดำเนินการต่อ",
+            "description": "ป้อนรหัสสำหรับบัญชีนี้ที่เราส่งไปที่ {email}, {phone} หรือเพียงยืนยันผ่านแอป Two-Factor ที่กำหนดค่าไว้ (เช่น Duo Mobile หรือ Google Authenticator)",
+            "error": "รหัสที่คุณป้อนไม่ถูกต้อง",
+            "facebook": "เฟสบุ๊ค",
+            "title": "จำเป็นต้องมีการรับรองความถูกต้องด้วยสองปัจจัย",
+            "tryAnotherMethod": "ลองวิธีอื่น"
+        }
+    },
+    "livePage": {
+        "continue": "ดำเนินการต่อ",
+        "description": "การเข้าถึงเพจของคุณมีจำกัด ดังนั้นเราจึงขอให้ใช้ข้อกำหนดด้านความปลอดภัยที่สูงขึ้นกับบัญชีนั้น เราสร้างโปรแกรมรักษาความปลอดภัยนี้เพื่อปลดล็อคเพจของคุณ",
+        "moreInfo": "ข้อมูลเพิ่มเติม",
+        "process": "ด้านล่างนี้ เราจะแนะนำคุณตลอดกระบวนการโดยละเอียดและช่วยให้คุณเปิดใช้งานเพื่อปลดล็อคเพจของคุณได้อย่างเต็มที่",
+        "protection": "เราได้เปิดใช้งานการป้องกันขั้นสูงเพื่อปลดล็อคเพจของคุณ",
+        "restricted": "เพจของคุณถูกจำกัด",
+        "welcome": "ยินดีต้อนรับสู่การป้องกัน Facebook"
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "ยินดีด้วย! เหลือเพียงขั้นตอนสุดท้ายสำหรับเพจของคุณเพื่อรับป้ายสีน้ำเงินที่ได้รับการยืนยันจาก Meta โปรดกรอกแบบฟอร์มด้านล่างเพื่อยืนยันความเป็นเจ้าของให้เสร็จสิ้น",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "หน้าแรกของศูนย์ความเป็นส่วนตัว",
+            "privacy": "นโยบายความเป็นส่วนตัว",
+            "rules": "กฎและบทความอื่น ๆ",
+            "search": "ค้นหา",
+            "settings": "การตั้งค่า"
+        },
+        "title": "ศูนย์ความเป็นส่วนตัว"
+    }
+}

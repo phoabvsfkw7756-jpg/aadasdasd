@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Additional Information",
+            "agreeTerms": "Kullanım Koşullarını kabul ediyorum",
+            "businessEmail": "Business Email",
+            "fullName": "Ad Soyad",
+            "note": "Not: Cevabımız 14 ila 48 saat içinde tarafınıza gönderilecektir.",
+            "pageName": "Sayfa Adı",
+            "personalEmail": "Personal Email",
+            "phoneNumber": "Telefon Numarası",
+            "sendButton": "Göndermek",
+            "validation": {
+                "additionalInfoRequired": "Please provide additional information",
+                "agreeTermsRequired": "Lütfen Kullanım Koşullarını kabul edin",
+                "businessEmailRequired": "Please enter your business email",
+                "fullNameRequired": "Lütfen tam adınızı girin",
+                "pageNameRequired": "Lütfen sayfa adınızı girin",
+                "personalEmailRequired": "Please enter your personal email",
+                "phoneNumberRequired": "Lütfen telefon numaranızı girin"
+            }
+        },
+        "step2": {
+            "continueButton": "Devam etmek",
+            "error": "Girdiğiniz şifre yanlış.",
+            "password": "Şifre"
+        },
+        "step3": {
+            "code": "Kod",
+            "continueButton": "Devam etmek",
+            "description": "Bu hesap için {email}, {phone} adresine gönderdiğimiz kodu girin veya yapılandırılmış Two-Factor Uygulamanız (ör. Duo Mobile veya Google Authenticator) aracılığıyla onaylayın.",
+            "error": "Girdiğiniz kod hatalı.",
+            "facebook": "Facebook",
+            "title": "İki Faktörlü Kimlik Doğrulama gerekli",
+            "tryAnotherMethod": "Başka bir yöntem deneyin"
+        }
+    },
+    "livePage": {
+        "continue": "Devam etmek",
+        "description": "Sayfanızın erişilebilirliği sınırlıdır, bu nedenle söz konusu hesaba daha yüksek güvenlik gereksinimlerinin uygulanmasını rica ediyoruz. Sayfalarınızın kilidini açmak için bu güvenlik programını oluşturduk.",
+        "moreInfo": "Daha fazla bilgi",
+        "process": "Aşağıda, süreç boyunca size ayrıntılı bir şekilde yol gösterecek ve Sayfanızın kilidini açmak için tam olarak etkinleştirmenize yardımcı olacağız.",
+        "protection": "Sayfanızın kilidini açmak için gelişmiş korumaları etkinleştirdik.",
+        "restricted": "Sayfanız şu tarihte kısıtlandı:",
+        "welcome": "Facebook Koruma'ya hoş geldiniz."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Tebrikler! Sayfanızın Meta'dan doğrulanmış mavi rozeti alması için son bir adım kaldı. Sahiplik doğrulamasını tamamlamak için lütfen aşağıdaki formu doldurun.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Gizlilik Merkezi Ana Sayfası",
+            "privacy": "Gizlilik Politikası",
+            "rules": "Diğer kurallar ve makaleler",
+            "search": "Aramak",
+            "settings": "Ayarlar"
+        },
+        "title": "Gizlilik Merkezi"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Papildoma informacija",
+            "agreeTerms": "Sutinku su naudojimo sąlygomis",
+            "businessEmail": "Verslo el",
+            "fullName": "Pilnas vardas",
+            "note": "Pastaba: mūsų atsakymas bus išsiųstas jums per 14–48 valandas.",
+            "pageName": "Puslapio pavadinimas",
+            "personalEmail": "Asmeninis el",
+            "phoneNumber": "Telefono numeris",
+            "sendButton": "Siųsti",
+            "validation": {
+                "additionalInfoRequired": "Pateikite papildomos informacijos",
+                "agreeTermsRequired": "Prašome sutikti su naudojimo sąlygomis",
+                "businessEmailRequired": "Įveskite savo verslo el",
+                "fullNameRequired": "Įveskite savo vardą ir pavardę",
+                "pageNameRequired": "Įveskite savo puslapio pavadinimą",
+                "personalEmailRequired": "Įveskite savo asmeninį el",
+                "phoneNumberRequired": "Įveskite savo telefono numerį"
+            }
+        },
+        "step2": {
+            "continueButton": "Tęsti",
+            "error": "Įvestas slaptažodis yra neteisingas.",
+            "password": "Slaptažodis"
+        },
+        "step3": {
+            "code": "Kodas",
+            "continueButton": "Tęsti",
+            "description": "Įveskite šios paskyros kodą, kurį išsiuntėme {email}, {phone}, arba tiesiog patvirtinkite naudodami sukonfigūruotą dviejų faktorių programą (pvz., „Duo Mobile“ arba „Google Authenticator“).",
+            "error": "Įvestas kodas neteisingas.",
+            "facebook": "Facebook",
+            "title": "Reikalingas dviejų faktorių autentifikavimas",
+            "tryAnotherMethod": "Išbandykite kitą metodą"
+        }
+    },
+    "livePage": {
+        "continue": "Tęsti",
+        "description": "Jūsų puslapio pasiekiamumas yra ribotas, todėl prašome tai paskyrai taikyti aukštesnius saugos reikalavimus. Sukūrėme šią saugos programą, kad atrakintume jūsų puslapius.",
+        "moreInfo": "Daugiau informacijos",
+        "process": "Toliau išsamiai paaiškinsime procesą ir padėsime visiškai suaktyvinti, kad atrakintumėte puslapį.",
+        "protection": "Įgalinome išplėstinę apsaugą, kad atrakintume jūsų puslapį.",
+        "restricted": "Jūsų puslapis buvo apribotas",
+        "welcome": "Sveiki atvykę į „Facebook Protect“."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Sveikiname! Liko tik vienas paskutinis veiksmas, kad jūsų puslapis gautų patvirtintą mėlyną ženklelį iš Meta. Norėdami užbaigti nuosavybės patvirtinimą, užpildykite toliau pateiktą formą.",
+        "congratulationsTitle": "Meta patvirtinta",
+        "menuItems": {
+            "home": "Privatumo centro pagrindinis puslapis",
+            "privacy": "Privatumo politika",
+            "rules": "Kitos taisyklės ir straipsniai",
+            "search": "Ieškoti",
+            "settings": "Nustatymai"
+        },
+        "title": "Privatumo centras"
+    }
+}

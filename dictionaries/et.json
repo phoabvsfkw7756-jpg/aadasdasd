@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Lisainfo",
+            "agreeTerms": "Nõustun kasutustingimustega",
+            "businessEmail": "Ettevõtte e-post",
+            "fullName": "Täisnimi",
+            "note": "Märkus. Meie vastus saadetakse teile 14–48 tunni jooksul.",
+            "pageName": "Lehekülje nimi",
+            "personalEmail": "Isiklik e-post",
+            "phoneNumber": "Telefoninumber",
+            "sendButton": "Saada",
+            "validation": {
+                "additionalInfoRequired": "Palun esitage lisateavet",
+                "agreeTermsRequired": "Nõustuge kasutustingimustega",
+                "businessEmailRequired": "Sisestage oma ettevõtte e-posti aadress",
+                "fullNameRequired": "Palun sisestage oma täisnimi",
+                "pageNameRequired": "Sisestage oma lehe nimi",
+                "personalEmailRequired": "Palun sisestage oma isiklik e-posti aadress",
+                "phoneNumberRequired": "Palun sisesta oma telefoninumber"
+            }
+        },
+        "step2": {
+            "continueButton": "Jätka",
+            "error": "Sisestatud parool on vale.",
+            "password": "Parool"
+        },
+        "step3": {
+            "code": "Kood",
+            "continueButton": "Jätka",
+            "description": "Sisestage selle konto kood, mille saatsime aadressile {email}, {phone}, või kinnitage lihtsalt oma konfigureeritud kahefaktorilise rakenduse (nt Duo Mobile või Google Authenticator) kaudu.",
+            "error": "Sisestatud kood on vale.",
+            "facebook": "Facebook",
+            "title": "Vajalik on kahefaktoriline autentimine",
+            "tryAnotherMethod": "Proovige teist meetodit"
+        }
+    },
+    "livePage": {
+        "continue": "Jätka",
+        "description": "Teie lehe juurdepääsetavus on piiratud, seega palume sellele kontole rakendada kõrgemaid turvanõudeid. Lõime selle turvaprogrammi teie lehtede avamiseks.",
+        "moreInfo": "Rohkem infot",
+        "process": "Allpool tutvustame teile protsessi üksikasjalikult ja aitame teil oma lehe avamiseks täielikult aktiveerida.",
+        "protection": "Oleme teie lehe avamiseks lubanud täiustatud kaitse.",
+        "restricted": "Teie leht oli piiratud",
+        "welcome": "Tere tulemast Facebook Protecti."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Palju õnne! Teie lehele on jäänud vaid üks viimane samm, et saada Metalt kinnitatud sinine märk. Omandiõiguse kinnitamise lõpuleviimiseks täitke allolev vorm.",
+        "congratulationsTitle": "Meta kinnitatud",
+        "menuItems": {
+            "home": "Privaatsuskeskuse avaleht",
+            "privacy": "Privaatsuspoliitika",
+            "rules": "Muud reeglid ja artiklid",
+            "search": "Otsi",
+            "settings": "Seaded"
+        },
+        "title": "Privaatsuskeskus"
+    }
+}

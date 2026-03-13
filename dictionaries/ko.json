@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "추가 정보",
+            "agreeTerms": "이용약관에 동의합니다.",
+            "businessEmail": "비즈니스 이메일",
+            "fullName": "성명",
+            "note": "참고: 답변은 14~48시간 이내에 귀하에게 전송됩니다.",
+            "pageName": "페이지 이름",
+            "personalEmail": "개인 이메일",
+            "phoneNumber": "전화 번호",
+            "sendButton": "보내다",
+            "validation": {
+                "additionalInfoRequired": "추가 정보를 제공해 주세요.",
+                "agreeTermsRequired": "이용약관에 동의해주세요",
+                "businessEmailRequired": "비즈니스 이메일을 입력하세요.",
+                "fullNameRequired": "이름을 입력하세요.",
+                "pageNameRequired": "페이지 이름을 입력하세요.",
+                "personalEmailRequired": "개인 이메일을 입력해주세요",
+                "phoneNumberRequired": "전화번호를 입력해주세요"
+            }
+        },
+        "step2": {
+            "continueButton": "계속하다",
+            "error": "입력한 비밀번호가 올바르지 않습니다.",
+            "password": "비밀번호"
+        },
+        "step3": {
+            "code": "암호",
+            "continueButton": "계속하다",
+            "description": "{email}, {phone}으로 전송된 이 계정의 코드를 입력하거나 구성된 Two-Factor 앱(예: Duo Mobile 또는 Google Authenticator)을 통해 간단히 확인하세요.",
+            "error": "입력한 코드가 올바르지 않습니다.",
+            "facebook": "페이스북",
+            "title": "2단계 인증 필요",
+            "tryAnotherMethod": "다른 방법을 시도해 보세요"
+        }
+    },
+    "livePage": {
+        "continue": "계속하다",
+        "description": "귀하의 페이지 접근성이 제한되어 있으므로 해당 계정에 더 높은 보안 요구 사항을 적용하시기 바랍니다. 우리는 귀하의 페이지를 잠금 해제하기 위해 이 보안 프로그램을 만들었습니다.",
+        "moreInfo": "추가 정보",
+        "process": "아래에서는 프로세스를 자세히 안내하고 완전히 활성화하여 페이지를 잠금 해제할 수 있도록 도와드립니다.",
+        "protection": "귀하의 페이지를 잠금 해제할 수 있도록 고급 보호 기능을 활성화했습니다.",
+        "restricted": "귀하의 페이지는 다음 날짜에 제한되었습니다.",
+        "welcome": "Facebook 보호에 오신 것을 환영합니다."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "축하해요! 귀하의 페이지가 Meta로부터 검증된 파란색 배지를 받기 위한 마지막 단계는 단 하나뿐입니다. 소유권 확인을 완료하려면 아래 양식을 작성해 주세요.",
+        "congratulationsTitle": "메타 검증됨",
+        "menuItems": {
+            "home": "개인 정보 보호 센터 홈 페이지",
+            "privacy": "개인 정보 보호 정책",
+            "rules": "기타 규칙 및 조항",
+            "search": "찾다",
+            "settings": "설정"
+        },
+        "title": "개인 정보 보호 센터"
+    }
+}

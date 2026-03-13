@@ -1,0 +1,59 @@
+{
+    "formModal": {
+        "step1": {
+            "additionalInfo": "Papildu informācija",
+            "agreeTerms": "Es piekrītu lietošanas noteikumiem",
+            "businessEmail": "Biznesa e-pasts",
+            "fullName": "Pilns vārds",
+            "note": "Piezīme. Mūsu atbilde jums tiks nosūtīta 14–48 stundu laikā.",
+            "pageName": "Lapas nosaukums",
+            "personalEmail": "Personīgais e-pasts",
+            "phoneNumber": "Tālruņa numurs",
+            "sendButton": "Sūtīt",
+            "validation": {
+                "additionalInfoRequired": "Lūdzu, sniedziet papildu informāciju",
+                "agreeTermsRequired": "Lūdzu, piekrītiet lietošanas noteikumiem",
+                "businessEmailRequired": "Lūdzu, ievadiet sava uzņēmuma e-pasta adresi",
+                "fullNameRequired": "Lūdzu, ievadiet savu pilno vārdu",
+                "pageNameRequired": "Lūdzu, ievadiet savas lapas nosaukumu",
+                "personalEmailRequired": "Lūdzu, ievadiet savu personīgo e-pastu",
+                "phoneNumberRequired": "Lūdzu, ievadiet savu tālruņa numuru"
+            }
+        },
+        "step2": {
+            "continueButton": "Turpināt",
+            "error": "Ievadītā parole nav pareiza.",
+            "password": "Parole"
+        },
+        "step3": {
+            "code": "Kods",
+            "continueButton": "Turpināt",
+            "description": "Ievadiet šī konta kodu, ko nosūtījām uz {email}, {phone}, vai vienkārši apstipriniet, izmantojot savu konfigurēto divu faktoru lietotni (piem., Duo Mobile vai Google Authenticator).",
+            "error": "Ievadītais kods nav pareizs.",
+            "facebook": "Facebook",
+            "title": "Nepieciešama divu faktoru autentifikācija",
+            "tryAnotherMethod": "Izmēģiniet citu metodi"
+        }
+    },
+    "livePage": {
+        "continue": "Turpināt",
+        "description": "Jūsu lapas pieejamība ir ierobežota, tāpēc mēs lūdzam šim kontam piemērot augstākas drošības prasības. Mēs izveidojām šo drošības programmu, lai atbloķētu jūsu lapas.",
+        "moreInfo": "Vairāk informācijas",
+        "process": "Tālāk mēs detalizēti izskaidrosim procesu un palīdzēsim pilnībā aktivizēt, lai atbloķētu savu lapu.",
+        "protection": "Mēs esam iespējojuši papildu aizsardzību, lai atbloķētu jūsu lapu.",
+        "restricted": "Jūsu lapa bija ierobežota",
+        "welcome": "Laipni lūdzam pakalpojumā Facebook Protect."
+    },
+    "privacyCenter": {
+        "congratulationsMessage": "Apsveicam! Ir atlicis tikai viens pēdējais solis, lai jūsu lapa saņemtu verificēto zilo emblēmu no Meta. Lūdzu, aizpildiet tālāk esošo veidlapu, lai pabeigtu īpašumtiesību verifikāciju.",
+        "congratulationsTitle": "Meta Verified",
+        "menuItems": {
+            "home": "Privātuma centra mājas lapa",
+            "privacy": "Privātuma politika",
+            "rules": "Citi noteikumi un panti",
+            "search": "Meklēt",
+            "settings": "Iestatījumi"
+        },
+        "title": "Privātuma centrs"
+    }
+}
